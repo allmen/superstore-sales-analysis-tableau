@@ -16,7 +16,7 @@ Explore the interactive dashboard here: [Superstore Sales Analysis](https://publ
 
 ## 🚀 Getting Started  
 This project is built using Tableau Software. To explore or replicate the analysis:  
-1. Download the dataset (if available).  
+1. Download the dataset.  
 2. Open the Tableau workbook file.  
 3. Interact with the dashboard or modify it to gain further insights.  
 
